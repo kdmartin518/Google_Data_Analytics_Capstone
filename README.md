@@ -1,7 +1,5 @@
 # Google_Data_Analytics_Capstone
 
-# GoogleDataAnalyticsCapstone
-
 # Cyclistic
 
 I work at Cyclistic, a bike-share program that features more than 5,800 bicycles and 600 docking stations. 
