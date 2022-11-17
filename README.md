@@ -243,7 +243,7 @@ I believe that the data paints a clear picture of the differences between our Su
 
 Subscribers appear to use our service for their daily commute to work. While casual users may also fit this use case, they appear to be more likely to use our service for leisure. 
 
-![Story 2](https://github.com/cruhsaumnt/GoogleDataAnalyticsCapstone/blob/5c761b18a2c3c88fb51a06b926d6c394626e9503/Story%202.png)
+![Story 2](https://github.com/kdmartin518/GoogleDataAnalyticsCapstone/blob/5c761b18a2c3c88fb51a06b926d6c394626e9503/Story%202.png)
 
 The top graph shows average rider volume during different times of day. Notice that our subscribers, in orange, peak at 8am and 5pm, while casual members in blue have a more steady ebb and flow of volume with a slight peak at 5 pm.
 
@@ -251,7 +251,7 @@ The bottom graph compares volume by day of week. Subscribers are more active dur
 
 So it looks like people who need our bikes on a daily basis at 8 am and 5 pm are likely to subscribe. Maybe it's more economical for them to depend on us for their daily commute. But users who don't need us for their commute aren't as likely to subscribe. 
 
-![Story 3](https://github.com/cruhsaumnt/GoogleDataAnalyticsCapstone/blob/5c761b18a2c3c88fb51a06b926d6c394626e9503/Story%203.png)
+![Story 3](https://github.com/kdmartin518/GoogleDataAnalyticsCapstone/blob/5c761b18a2c3c88fb51a06b926d6c394626e9503/Story%203.png)
 
 We just saw how many of each group use our service at different times. Now let's see how long they like to ride our bikes for. 
 
