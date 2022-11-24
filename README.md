@@ -16,19 +16,19 @@ I'm given access to a set of CSV files. They are organized by month, and have ha
 
 ---
 
-![Figure 1](fig1.png)
+![Figure 1](figs/fig1.png)
 
 For reference, people take more rides overall in the Summer and fewer in the Winter. There are generally fewer Casual Users than Subscribers.
 
-![Figure 3](fig3.png)
+![Figure 2](figs/fig2.png)
 
 Nearly 50% of all riders are Casual Users during the Summer months, but this drops to less than 20% in the Winter.
 
-![Figure 2](fig2.png)
+![Figure 3](figs/fig3.png)
 
 From day to day, Subscriber use peaks at 8 AM and 5 PM during the week. Casual users also peak around 5 PM.
 
-![Figure 8](fig8.png)
+![Figure 4](figs/fig4.png)
 
 Casual Users typically make up less than 40% of rides during the week, but this shoots up to around 52% over the weekend. 
 
@@ -36,9 +36,9 @@ Casual Users typically make up less than 40% of rides during the week, but this 
 
 ---
 
-![Figure 6](fig6.png)
+![Figure 5](figs/fig5.png)
 
-![A comparison of longest and shortest rides, by day of week.](fig4.png)
+![A comparison of longest and shortest rides, by day of week.](figs/fig6.png)
 
 A large difference between the two groups is ride length. Casual Users tend to take longer rides, and the longest ride is a lot longer than the shortest. Compared to Subscribers, who usually stay within a tight range of relatively short rides. 
 
@@ -46,7 +46,7 @@ A large difference between the two groups is ride length. Casual Users tend to t
 
 ---
 
-![Figure 7](fig7.png)
+![Figure 7](figs/fig7.png)
 
 # Cyclistic is for Getting to Work.
 
